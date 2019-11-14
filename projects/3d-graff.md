@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
+thumbnail: "/uploads/estateplanningsoftware.jpg"
 title: Ice Cream
 date: 2019-01-04
 categories:
