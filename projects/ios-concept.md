@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
+thumbnail: "/uploads/estateneeds.jpg"
 title: Porta400
 date: 2019-01-03
 categories:
