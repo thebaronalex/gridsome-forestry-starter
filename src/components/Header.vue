@@ -4,7 +4,7 @@
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
                     <img 
-                        src="../../static/logo.svg"
+                        src="https://i2.wp.com/beyondcounsel.io/wp-content/uploads/2019/03/LogoButtoncentered.png?w=754&ssl=1"
                         :alt="settings.site_name" 
                         class="logo"
                     />
