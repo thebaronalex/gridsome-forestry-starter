@@ -4,17 +4,17 @@ hide_body: true
 fields:
 - type: text
   name: site_name
-  label: Site name
+  label: Beyond Counsel
 - type: textarea
   name: site_description
   label: Site description
 - type: textarea
   name: hero_title
-  label: Hero title
   config:
     wysiwyg: true
     schema:
       format: html
+  label: Beyond Counsel
 - type: textarea
   name: hero_subtitle
   label: Hero subtitle
