@@ -2,6 +2,11 @@
 label: Theme configuration
 hide_body: true
 fields:
+- name: hero_home
+  type: file
+  config:
+    maxSize: 250
+  label: hero_home
 - type: text
   name: site_name
   label: Beyond Counsel
